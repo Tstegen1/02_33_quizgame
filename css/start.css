@@ -1,0 +1,23 @@
+video {
+  display: block;
+  width: 800px;
+  height: 600px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ca6363;
+  border-radius: 6px;
+  color: #fff;
+  text-align: center;
+  font-weight: bold;
+}
+
+a:hover {
+  opacity: .8;
+}
